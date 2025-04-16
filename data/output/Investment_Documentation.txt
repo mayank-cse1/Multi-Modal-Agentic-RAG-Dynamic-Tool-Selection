@@ -1,0 +1,16 @@
+
+Investment Strategies:
+1. **Growth Investing** - Focuses on stocks with strong growth potential, even if they are overvalued.
+2. **Value Investing** - Targets undervalued stocks with strong fundamentals.
+3. **Dividend Investing** - Prefers stocks with regular dividend payouts.
+4. **Index Investing** - Invests in ETFs that track market indices like the S&P 500.
+
+Risk Management Principles:
+1. **Diversification** - Spread investments across different asset classes to reduce risk.
+2. **Asset Allocation** - Adjust portfolio composition based on age, income, and financial goals.
+3. **Stop-Loss Orders** - Protects against significant losses by automatically selling an asset at a preset price.
+
+Portfolio Performance:
+- Mayank's portfolio has a **12% annual return** over the last 3 years.
+- The **highest-performing asset** is Bitcoin, with a **20% gain**.
+- The **lowest-performing asset** is the Government Bond 2030, with only a **4% gain**.

@@ -1,0 +1,7 @@
+Investment_ID,Investment_Type,Asset_Name,Quantity,Purchase_Price,Current_Price,Investment_Date,Sector,Risk_Level
+101,Stock,Apple Inc.,50,150,170,5/10/2022,Technology,High
+102,Mutual Fund,Axis Bluechip Fund,200,45,50,11/15/2021,Equity Fund,Moderate
+103,Bond,Government Bond 2030,10,980,1020,6/20/2020,Government,Low
+104,Real Estate,Apartment in Bangalore,1,7500000,8200000,2/25/2019,Real Estate,Low
+105,ETF,S&P 500 ETF,100,400,420,1/5/2023,Index Fund,Moderate
+106,Crypto,Bitcoin,2,35000,42000,9/12/2021,Crypto,High
